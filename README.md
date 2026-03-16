@@ -125,11 +125,11 @@ Responsible for the full frontend design and implementation.
 
 | Certificate | Issuer | View |
 |---|---|---|
-| 🏅 IC3 Digital Literacy Global Standard Six | Certiport | [![PDF](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447)](IC3-cert.png) |
-| 🤖 Machine Learning with Python | FreeCodeCamp | [![PDF](https://www.freecodecamp.org/certification/fcc5f63757f-218e-44fd-aa04-34c43dfd6a7e/machine-learning-with-python-v7)](MLP.png) |
-| 💬 Prompt Engineering Specialization | Coursera — Vanderbilt University | [![PDF](https://www.coursera.org/account/accomplishments/specialization/1Q1SDDB8ZX0D)](PromptEng.png) |
-| 📊 ChatGPT Advanced Data Analysis | Coursera — Vanderbilt University | [![PDF](https://www.coursera.org/account/accomplishments/verify/1YSVIJSRQQG2)](DataAnalyst.png) |
-| 🧠 Machine Learning Specialization | Coursera — DeepLearning.AI | [![PDF](https://www.coursera.org/account/accomplishments/specialization/900B658MB8XT)](MLS.png) |
+| 🏅 IC3 Digital Literacy Global Standard Six | Certiport | [![thumbnail](IC3-cert.png)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447) |
+| 🤖 Machine Learning with Python | FreeCodeCamp | [![thumbnail](MLP.png)](https://www.freecodecamp.org/certification/fcc5f63757f-218e-44fd-aa04-34c43dfd6a7e/machine-learning-with-python-v7) |
+| 💬 Prompt Engineering Specialization | Coursera — Vanderbilt University | [![thumbnail](PromptEng.png)](https://www.coursera.org/account/accomplishments/specialization/1Q1SDDB8ZX0D) |
+| 📊 ChatGPT Advanced Data Analysis | Coursera — Vanderbilt University | [![thumbnail](DataAnalyst.png)](https://www.coursera.org/account/accomplishments/verify/1YSVIJSRQQG2) |
+| 🧠 Machine Learning Specialization | Coursera — DeepLearning.AI | [![thumbnail](MLS.png)](https://www.coursera.org/account/accomplishments/specialization/900B658MB8XT) |
 
 <!--
   CERTIFICATE THUMBNAILS: To display cert thumbnails, add image links below each row like this:
