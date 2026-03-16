@@ -107,6 +107,11 @@ Responsible for the full frontend design and implementation.
 
 ---
 
+### 🔹 GeoLookup IP Intelligence
+> A full-stack IP geolocation app with JWT authentication, interactive maps, and search history — built with React, Node.js, and deployed on Vercel and Railway.
+
+[![Geo Preview](./projects/Geolookup.png)](https://geo-lookup-ip-intelligence-front-en.vercel.app/)
+
 ## 📊 GitHub Stats
 
 <div align="center">
