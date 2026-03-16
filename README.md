@@ -103,7 +103,7 @@ Applied transfer learning, dataset augmentation, and fine-tuning in Google Colab
 
 Responsible for the full frontend design and implementation.
 
-[![NALA Preview](./projects/front2.png)](https://github.com/niccollodeon)
+[![NALA Preview](./projects/front2.png)](https://niccollodeon.github.io/NALA/)
 
 ---
 
