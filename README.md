@@ -2,7 +2,7 @@
 
 # Mark Niccollo L. Dayrit
 
-**Computer Science Student · AI & ML Enthusiast · Frontend Developer**
+**Computer Science Student · AI & ML Enthusiast · Full-Stack Developer**
 
 National University - Lipa | Dean's Lister | iNUvators Member
 
