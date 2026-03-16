@@ -125,11 +125,11 @@ Responsible for the full frontend design and implementation.
 
 | Certificate | Issuer | View |
 |---|---|---|
-| 🏅 IC3 Digital Literacy Global Standard Six | Certiport | [![PDF](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447)](ic3.png) |
-| 🤖 Machine Learning with Python | FreeCodeCamp | [![PDF](https://www.freecodecamp.org/certification/fcc5f63757f-218e-44fd-aa04-34c43dfd6a7e/machine-learning-with-python-v7)](ML-Cert.pdf) |
-| 💬 Prompt Engineering Specialization | Coursera — Vanderbilt University | [![PDF](https://www.coursera.org/account/accomplishments/specialization/1Q1SDDB8ZX0D)](Prompt%20Eng%20-%20cert.pdf) |
-| 📊 ChatGPT Advanced Data Analysis | Coursera — Vanderbilt University | [![PDF](https://www.coursera.org/account/accomplishments/verify/1YSVIJSRQQG2)](Data%20Analysis-Cert.pdf) |
-| 🧠 Machine Learning Specialization | Coursera — DeepLearning.AI | [![PDF](https://www.coursera.org/account/accomplishments/specialization/900B658MB8XT)](./Machine%20Learning%20Specialization%20-%20Cert.pdf) |
+| 🏅 IC3 Digital Literacy Global Standard Six | Certiport | [![PDF](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=447)](IC3-cert.png) |
+| 🤖 Machine Learning with Python | FreeCodeCamp | [![PDF](https://www.freecodecamp.org/certification/fcc5f63757f-218e-44fd-aa04-34c43dfd6a7e/machine-learning-with-python-v7)](MLP.png) |
+| 💬 Prompt Engineering Specialization | Coursera — Vanderbilt University | [![PDF](https://www.coursera.org/account/accomplishments/specialization/1Q1SDDB8ZX0D)](PromptEng.png) |
+| 📊 ChatGPT Advanced Data Analysis | Coursera — Vanderbilt University | [![PDF](https://www.coursera.org/account/accomplishments/verify/1YSVIJSRQQG2)](DataAnalyst.png) |
+| 🧠 Machine Learning Specialization | Coursera — DeepLearning.AI | [![PDF](https://www.coursera.org/account/accomplishments/specialization/900B658MB8XT)](MLS.png) |
 
 <!--
   CERTIFICATE THUMBNAILS: To display cert thumbnails, add image links below each row like this:
