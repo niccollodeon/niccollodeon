@@ -2,7 +2,7 @@
 
 # Mark Niccollo L. Dayrit
 
-**Computer Science Student · AI & ML Enthusiast · Full-Stack Developer**
+**Data Analysis · AI & ML Enthusiast · Full-Stack Developer**
 
 National University - Lipa | Dean's Lister | iNUvators Member
 
@@ -14,7 +14,7 @@ National University - Lipa | Dean's Lister | iNUvators Member
 
 ## 👤 About Me
 
-Hi! I'm **Niccollo**, a Computer Science student at National University - Lipa with a passion for building intelligent systems and clean frontend interfaces. I specialize in machine learning and full-stack web development — from training deep learning models to crafting responsive UIs.
+Hi! I'm **Niccollo**, a Computer Science Graduate at National University - Lipa with a passion for building intelligent systems and clean frontend interfaces. I specialize in machine learning and full-stack web development — from training deep learning models to crafting responsive UIs.
 
 - 🎓 BS Computer Science @ NU-Lipa (2022 – Present)
 - 🤖 Focused on AI/ML, Deep Learning & Full-Stack Development
