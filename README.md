@@ -16,7 +16,7 @@ National University - Lipa | Dean's Lister | iNUvators Member
 
 Hi! I'm **Niccollo**, a Computer Science Graduate at National University - Lipa with a passion for building intelligent systems and clean frontend interfaces. I specialize in machine learning and full-stack web development — from training deep learning models to crafting responsive UIs.
 
-- 🎓 BS Computer Science @ NU-Lipa (2022 – Present)
+- 🎓 BS Computer Science @ NU-Lipa (2022 – 2026)
 - 🤖 Focused on AI/ML, Deep Learning & Full-Stack Development
 - 🏅 Dean's Lister | TOEIC Score: 850
 - 📍 Lipa City, Batangas, Philippines
